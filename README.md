@@ -12,6 +12,6 @@ In edit mode, you can change the title, color, font size and font style of the h
 
 ![Edit mode overview](/Images/InspectorHeader_Tutorial_02.png?raw=true)
 
-When you're done with your edits, click the confirm button to save your changes.
+When you're done with your edits, click the confirm button to save your changes, and you're good to go!
 
 ![Save changes](/Images/InspectorHeader_Tutorial_03.png?raw=true)
