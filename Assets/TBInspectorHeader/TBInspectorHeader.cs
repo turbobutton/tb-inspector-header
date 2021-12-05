@@ -13,7 +13,7 @@ namespace TButt.Utils
 		public string title = "Title";
 		public Color color = Color.white;
 		[Range (20, 100)]
-		public int fontSize = 40;
+		public int fontSize = 35;
 
 		public FontStyle fontStyle = FontStyle.Bold;
 #endif
