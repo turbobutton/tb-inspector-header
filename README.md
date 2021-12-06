@@ -1,5 +1,5 @@
 # TB Inspector Header
-Scripts and components can quickly pile up on your game objects making it difficult to quickly parse inspector windows and find what you need. TB Inspector Header is a lightweight script that lets you easily label sections in your inspectors without resorting to complex inspector customization tools.
+Scripts and components can quickly pile up on your game objects making it difficult to parse inspector windows and find what you need. TB Inspector Header is a lightweight script that lets you easily label sections in your inspectors without resorting to complex inspector customization tools.
 
 ![Example](/Images/InspectorHeader_Example_01.png?raw=true)
 
